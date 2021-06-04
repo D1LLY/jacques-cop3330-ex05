@@ -17,6 +17,11 @@ Keep the inputs and outputs separate from the numerical conversions and other pr
 Generate a single output statement with line breaks in the appropriate spots.
  */
 
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 first_name last_name
+ */
+
 
 package programming1;
 
